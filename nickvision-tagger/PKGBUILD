@@ -1,7 +1,7 @@
 # https://aur.archlinux.org/packages/nickvision-tagger
 
 pkgname=nickvision-tagger
-pkgver=2022.10.0
+pkgver=2022.10.3
 pkgrel=1
 pkgdesc="An easy-to-use music tag (metadata) editor"
 arch=('x86_64' 'aarch64')
